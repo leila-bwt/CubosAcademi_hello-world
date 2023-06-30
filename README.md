@@ -1,9 +1,10 @@
 # Exercício de Casa
 
-## _1. Utilizando as novas ferramentas
-> Tente fazer o passo a passo abaixo sem consultar as aulas inicialmente.
-> Caso não se lembre como realizar alguns dos passos,
-> sinta-se a vontade para consultar as aulas.
+## _1. Utilizando as novas ferramentas_
+
+> Tente fazer o passo a passo abaixo sem consultar as aulas inicialmente
+> Caso não se lembre como realizar alguns dos passos
+> Sinta-se a vontade para consultar as aulas
 
 - Crie um novo repositório no GitHub chamado hello-world
 
